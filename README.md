@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Moody-Asyer
 - 👀 I’m interested in Data Analytics, Web Development, and Business Intelligence & Analytics
-- 🌱 I’m currently learning Data Mining
+- 🌱 I’m currently doing an internship as Data Scientist
 - 💞️ I’m looking to collaborate on Projects in Big Data Analytics
 - 📫 How to reach me -> @asyer48@gmail.com
 
